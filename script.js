@@ -4,7 +4,7 @@
            // write you code here and display the result to the user
 		   let pi = 3.14;
            let Area = radius * pi * radius;
-	 alert(Area);
+	 alert("The area of the circle with radius 4 is "+ Area);
 		
 }
 calculateArea();
